@@ -1,2 +1,2 @@
-# SMC-CFA
+# SMC-CamFireAlarm
 (SMC) Cam Fire Alarm
